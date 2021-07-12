@@ -8,7 +8,7 @@
 
 |My github statistics|My languages|Streaks|
 |-|-|-|
-|[![Peace's github stats](https://github-readme-stats.vercel.app/api?username=vjudge&show_icons=true&theme=dark&hide_title=true)](https://github.com/Cyebukayire)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vjudge&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/Cyebukayire)|![Cyebukayire](https://github-readme-streak-stats.herokuapp.com/?user=vjudge&theme=dark)
+|[![Peace's github stats](https://github-readme-stats.vercel.app/api?username=vjudge&show_icons=true&theme=dark&hide_title=true)](https://github.com/vjudge)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vjudge&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/vjudge)|![vjudge](https://github-readme-streak-stats.herokuapp.com/?user=vjudge&theme=dark)
 <hr>
 
 <!-- START NEW SECTION -->
