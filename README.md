@@ -6,15 +6,19 @@
 <p align="center">
  <h2 align="center">My Github Stats</h2>
 
-|My github statistics|My languages|Streaks|
-|-|-|-|
-|[![Peace's github stats](https://github-readme-stats.vercel.app/api?username=vjudge&show_icons=true&theme=dark&hide_title=true)](https://github.com/vjudge)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vjudge&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/vjudge)|![vjudge](https://github-readme-streak-stats.herokuapp.com/?user=vjudge&theme=dark)
+ | My github statistics |  |
+ |  :---:  | :---:  |
+ | [![vjudge's Github stats](https://github-readme-stats.vercel.app/api?username=vjudge&show_icons=true&theme=bear&hide_title=true)](https://github.com/vjudge) |  |
+ | My languages | Streaks |
+ |  :---:  | :---:  |
+ | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vjudge&show_icons=true&theme=radical&layout=compact&hide_title=true)](https://github.com/vjudge) | ![vjudge](https://github-readme-streak-stats.herokuapp.com/?user=vjudge&theme=dark) |
+
 <hr>
 
 <!-- START NEW SECTION -->
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{vjudge}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{vjudge}/count.svg" /></p>
 <br></div>
 
 <p align="center">
