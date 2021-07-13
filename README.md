@@ -8,9 +8,8 @@
 
  | My github statistics |  |
  |  :---:  | :---:  |
- | [![vjudge's Github stats](https://github-readme-stats.vercel.app/api?username=vjudge&show_icons=true&theme=bear&hide_title=true)](https://github.com/vjudge) |  |
+ | [![vjudge's Github stats](https://github-readme-stats.vercel.app/api?username=vjudge&show_icons=true&theme=bear&hide_title=false)](https://github.com/vjudge) |  |
  | My languages | Streaks |
- |  :---:  | :---:  |
  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vjudge&show_icons=true&theme=radical&layout=compact&hide_title=true)](https://github.com/vjudge) | ![vjudge](https://github-readme-streak-stats.herokuapp.com/?user=vjudge&theme=dark) |
 
 <hr>
