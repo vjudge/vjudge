@@ -32,7 +32,7 @@
   ![Redis](https://img.shields.io/badge/redis-%23c83d2e.svg?logo=redis&logoColor=white)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
   ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
-  ![Atom](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=atom)
+  ![Atom](https://img.shields.io/badge/-Atom-blasck?style=plastic&logo=atom)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
 - 💻 I work using:
   ![Vue](https://img.shields.io/badge/Vue%20-%232b3847.svg?logo=vue.js)
@@ -54,7 +54,7 @@
   ![Java](https://img.shields.io/badge/-java-3f4441?style=plastic&logo=java)
   ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
   ![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django)
-  ![Go](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=go)
+  ![Go](https://img.shields.io/badge/-Golang-092E20?style=plastic&logo=golang)
 - 📫 How to reach me:
   ✉️ [Email](mailto:gradonday@163.com) OR ![Wechat](https://img.shields.io/badge/1156638549%20-%23.svg?logo=wechat&logoColor=white)
 
@@ -80,7 +80,9 @@
 
 <hr>
 ### 👨‍💻 My GitHub activities of last 31 days.
+
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+
 ![vjudge's github activity graph](https://activity-graph.herokuapp.com/graph?username=vjudge&theme=react-dark&area=true&custom_title=vjudge's%20Graph)
 
 
