@@ -75,6 +75,9 @@
 <!-- waka readme - https://github.com/athul/waka-readme -->
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 
