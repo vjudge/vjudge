@@ -15,6 +15,10 @@
  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vjudge&show_icons=true&theme=radical&layout=compact&hide_title=true)](https://github.com/vjudge) |
 
 <hr>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<hr>
 
 <!-- START NEW SECTION -->
 <div align="center">
