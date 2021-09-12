@@ -17,6 +17,10 @@
 <hr>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+START_SECTION:waka
+END_SECTION:waka
+
+[![vjudge's activity graph](https://activity-graph.herokuapp.com/graph?username=vjudge&theme=dracula)](https://github.com/vjudge)
 
 <hr>
 
