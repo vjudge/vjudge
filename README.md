@@ -82,7 +82,9 @@
  | Streaks |
  | ![vjudge](https://github-readme-streak-stats.herokuapp.com/?user=vjudge&theme=dark) |
  | My languages |
- | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vjudge&show_icons=true&theme=radical&layout=compact&hide_title=true)](https://github.com/vjudge) |
+ | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vjudge&show_icons=true&theme=radical&layout=compact&langs_count=10&hide_title=true)](https://github.com/vjudge) |
+
+
 
 <hr>
 <!-- waka readme - https://github.com/athul/waka-readme -->
