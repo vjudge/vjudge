@@ -23,6 +23,7 @@
 ### 🎉 Hi there, I'm vjudge. 👋
 
 🛠️ **Languages and Tools:**
+<!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
 - 🚀 I use daily:
   ![Node](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
