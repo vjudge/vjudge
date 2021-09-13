@@ -67,7 +67,7 @@
   ![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django)
   ![Anaconda](https://img.shields.io/badge/-Anaconda-092E20?style=plastic&logo=anaconda)
   ![Go](https://img.shields.io/badge/-Go-092E20?style=plastic&logo=go)
-  ![PyCharm](https://img.shields.io/PyCharm/-Go-092E20?style=plastic&logo=pycharm)
+  ![PyCharm](https://img.shields.io/badge/-PyCharm-092E20?style=plastic&logo=pycharm)
 - 📫 How to reach me:
   ✉️ [Email](mailto:gradonday@163.com) OR ![Wechat](https://img.shields.io/badge/1156638549%20-%23.svg?logo=wechat&logoColor=white)
 
@@ -90,9 +90,7 @@
 <!-- waka readme - https://github.com/athul/waka-readme -->
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
+
 <!--END_SECTION:waka-->
 
 
