@@ -113,4 +113,11 @@ Here are some ideas to get you started:
 <!-- waka readme - https://github.com/athul/waka-readme -->
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
+```text
+Week: 07 September, 2021 - 13 September, 2021
+
+JavaScript   4 hrs 37 mins   ████████████████▒░░░░░░░░   65.51 % 
+Markdown     2 hrs 17 mins   ████████░░░░░░░░░░░░░░░░░   32.41 % 
+Go           8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+```
 <!--END_SECTION:waka-->
