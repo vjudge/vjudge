@@ -1,3 +1,19 @@
+<!--
+<hr>
+**vjudge/vjudge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
 <h3 align="center">
     Hi~ Thank you for coming!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
@@ -85,42 +101,16 @@
  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vjudge&show_icons=true&theme=radical&layout=compact&langs_count=10&hide_title=true)](https://github.com/vjudge) |
 
 
+ <hr>
+ ### 👨‍💻 My GitHub activities of last 31 days.
+
+ <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+
+ ![vjudge's github activity graph](https://activity-graph.herokuapp.com/graph?username=vjudge&theme=react-dark&area=true&custom_title=vjudge's%20Graph)
+
 
 <hr>
 <!-- waka readme - https://github.com/athul/waka-readme -->
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
-```text
-Week: 07 September, 2021 - 13 September, 2021
-
-JavaScript   4 hrs 37 mins   ████████████████▒░░░░░░░░   65.51 % 
-Markdown     2 hrs 17 mins   ████████░░░░░░░░░░░░░░░░░   32.41 % 
-Go           8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
-```
 <!--END_SECTION:waka-->
-
-
-<hr>
-### 👨‍💻 My GitHub activities of last 31 days.
-
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-
-![vjudge's github activity graph](https://activity-graph.herokuapp.com/graph?username=vjudge&theme=react-dark&area=true&custom_title=vjudge's%20Graph)
-
-
-
-<!--
-<hr>
-**vjudge/vjudge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
