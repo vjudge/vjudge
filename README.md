@@ -79,11 +79,12 @@ Here are some ideas to get you started:
 - 🌱 Learning all about:
   ![TypeScript](https://img.shields.io/badge/-TypeScript-3f4441?style=plastic&logo=typescript)
   ![Java](https://img.shields.io/badge/-java-3f4441?style=plastic&logo=java)
-  ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
+  ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python)
   ![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django)
   ![Anaconda](https://img.shields.io/badge/-Anaconda-092E20?style=plastic&logo=anaconda)
   ![Go](https://img.shields.io/badge/-Go-092E20?style=plastic&logo=go)
   ![PyCharm](https://img.shields.io/badge/-PyCharm-092E20?style=plastic&logo=pycharm)
+
 - 📫 How to reach me:
   ✉️ [Email](mailto:gradonday@163.com) OR ![Wechat](https://img.shields.io/badge/1156638549%20-%23.svg?logo=wechat&logoColor=white)
 
@@ -111,14 +112,14 @@ Here are some ideas to get you started:
 
 <hr>
 <!-- waka readme - https://github.com/athul/waka-readme -->
-📊 **This Week I Spent My Time On:**
+📊 **This Week I Spent My Time On:** <br /><br />
 <!--START_SECTION:waka-->
 ```text
 Week: 07 September, 2021 - 13 September, 2021
 
-JavaScript   4 hrs 37 mins   ████████████████▒░░░░░░░░   65.51 % 
-Markdown     2 hrs 17 mins   ████████░░░░░░░░░░░░░░░░░   32.41 % 
-Go           8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+JavaScript   4 hrs 37 mins   ████████████████▒░░░░░░░░   65.51 %
+Markdown     2 hrs 17 mins   ████████░░░░░░░░░░░░░░░░░   32.41 %
+Go           8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
 ```
 
 <!--END_SECTION:waka-->

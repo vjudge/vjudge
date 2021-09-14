@@ -19,7 +19,9 @@ jobs:
     runs-on: ubuntu-latest
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      - uses: athul/waka-readme@master
+      - uses: vjudge/vjudge@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GIST_ID: 0210ff35239e2831d43e79594877036f
           SHOW_TITLE: true
+          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
