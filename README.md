@@ -97,13 +97,13 @@ Here are some ideas to get you started:
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/?username=vjudge&theme=bear&show_icons=true&count_private=true" alt="vjudge's GitHub Stats"> -->
 
-![vjudge's Github stats](https://github-readme-stats.vercel.app/api?username=vjudge&show_icons=true&theme=bear&hide_title=false&card_width=540)
+![vjudge's Github stats](https://github-readme-stats.vercel.app/api?username=vjudge&show_icons=true&theme=bear&hide_title=false)
 
-![vjudge](https://github-readme-streak-stats.herokuapp.com/?user=vjudge&theme=dark&card_width=540)
+![vjudge](https://github-readme-streak-stats.herokuapp.com/?user=vjudge&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vjudge&show_icons=true&card_width=540&theme=radical&layout=compact&langs_count=10&hide_title=true)](https://github.com/vjudge)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vjudge&show_icons=true&card_width=480&theme=radical&layout=compact&langs_count=10&hide_title=true)](https://github.com/vjudge)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vjudge&theme=monokai&card_width=540)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vjudge&theme=monokai)
 
 
 
