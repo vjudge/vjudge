@@ -97,20 +97,20 @@ Here are some ideas to get you started:
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/?username=vjudge&theme=bear&show_icons=true&count_private=true" alt="vjudge's GitHub Stats"> -->
 
-![vjudge's Github stats](https://github-readme-stats.vercel.app/api?username=vjudge&show_icons=true&theme=bear&hide_title=false&card_width=600)
+![vjudge's Github stats](https://github-readme-stats.vercel.app/api?username=vjudge&show_icons=true&theme=bear&hide_title=false&card_width=540)
 
-![vjudge](https://github-readme-streak-stats.herokuapp.com/?user=vjudge&theme=dark&card_width=600)
+![vjudge](https://github-readme-streak-stats.herokuapp.com/?user=vjudge&theme=dark&card_width=540)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vjudge&show_icons=true&card_width=600&theme=radical&layout=compact&langs_count=10&hide_title=true)](https://github.com/vjudge)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vjudge&show_icons=true&card_width=540&theme=radical&layout=compact&langs_count=10&hide_title=true)](https://github.com/vjudge)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vjudge&theme=monokai&card_width=600)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vjudge&theme=monokai&card_width=540)
 
 
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
  ## 👨‍💻 **My GitHub activities of last 31 days.** <br /> <br />
 
-![vjudge's github activity graph](https://activity-graph.herokuapp.com/graph?username=vjudge&theme=react-dark&area=true&card_width=600&custom_title=vjudge's%20Graph)
+![vjudge's github activity graph](https://activity-graph.herokuapp.com/graph?username=vjudge&theme=react-dark&area=true&custom_title=vjudge's%20Graph)
 
 
 
