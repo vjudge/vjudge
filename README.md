@@ -101,7 +101,7 @@ Here are some ideas to get you started:
 
 ![vjudge](https://github-readme-streak-stats.herokuapp.com/?user=vjudge&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vjudge&show_icons=true&card_width=180&theme=radical&layout=compact&langs_count=10&hide_title=true)](https://github.com/vjudge)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vjudge&show_icons=true&card_width=600&theme=radical&layout=compact&langs_count=10&hide_title=true)](https://github.com/vjudge)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vjudge&theme=monokai)
 
