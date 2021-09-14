@@ -37,9 +37,9 @@ Here are some ideas to get you started:
 
 <br/>
 
-### 🎉 Hi there, I'm vjudge. 👋
+## 🎉 Hi there, I'm vjudge. 👋
 
-🛠️ **Languages and Tools:**
+## 🛠️ **Languages and Tools:**
 <!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
 - 🚀 I use daily:
   ![Node](https://img.shields.io/badge/-Node.JS-black?style=for-the-badge&logo=Node.js)
@@ -91,8 +91,8 @@ Here are some ideas to get you started:
 
 
 <!-- START NEW SECTION -->
-<p align="center">
- <h2 align="center">My Github Stats</h2>
+
+## 🔭 **My Github Stats** <br />
 <hr>
 ![vjudge's Github stats](https://github-readme-stats.vercel.app/api?username=vjudge&show_icons=true&theme=bear&hide_title=false)
 
@@ -104,18 +104,18 @@ Here are some ideas to get you started:
 
 
 
-<br />
- <hr>
- ### 👨‍💻 My GitHub activities of last 31 days.
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+ ## 👨‍💻 **My GitHub activities of last 31 days.** <br />
+<hr>
 
- <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-
- ![vjudge's github activity graph](https://activity-graph.herokuapp.com/graph?username=vjudge&theme=react-dark&area=true&custom_title=vjudge's%20Graph)
+![vjudge's github activity graph](https://activity-graph.herokuapp.com/graph?username=vjudge&theme=react-dark&area=true&custom_title=vjudge's%20Graph)
 
 
+
+
+## 📊 **This Week I Spent My Time On:** <br />
 <hr>
 <!-- waka readme - https://github.com/athul/waka-readme -->
-📊 **This Week I Spent My Time On:** <br /><br />
 <!--START_SECTION:waka-->
 ```text
 Week: 07 September, 2021 - 13 September, 2021
