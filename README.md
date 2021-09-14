@@ -112,10 +112,10 @@ Here are some ideas to get you started:
 
 
 
-
+<!-- waka readme - https://github.com/athul/waka-readme -->
 ## 📊 **This Week I Spent My Time On:** <br />
 <hr>
-<!-- waka readme - https://github.com/athul/waka-readme -->
+
 <!--START_SECTION:waka-->
 ```text
 Week: 07 September, 2021 - 13 September, 2021
