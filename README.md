@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 <br/>
 
 ## 🎉 Hi there, I'm vjudge. 👋
+<br />
 
 ## 🛠️ **Languages and Tools:**
 <!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
@@ -92,8 +93,10 @@ Here are some ideas to get you started:
 
 <!-- START NEW SECTION -->
 
-## 🔭 **My Github Stats** <br />
-<hr>
+## 🔭 **My Github Stats** <br /> <br />
+
+<!-- <img src="https://github-readme-stats.vercel.app/api/?username=vjudge&theme=bear&show_icons=true&count_private=true" alt="vjudge's GitHub Stats"> -->
+
 ![vjudge's Github stats](https://github-readme-stats.vercel.app/api?username=vjudge&show_icons=true&theme=bear&hide_title=false)
 
 ![vjudge](https://github-readme-streak-stats.herokuapp.com/?user=vjudge&theme=dark)
@@ -105,16 +108,14 @@ Here are some ideas to get you started:
 
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
- ## 👨‍💻 **My GitHub activities of last 31 days.** <br />
-<hr>
+ ## 👨‍💻 **My GitHub activities of last 31 days.** <br /> <br />
 
 ![vjudge's github activity graph](https://activity-graph.herokuapp.com/graph?username=vjudge&theme=react-dark&area=true&custom_title=vjudge's%20Graph)
 
 
 
 <!-- waka readme - https://github.com/athul/waka-readme -->
-## 📊 **This Week I Spent My Time On:** <br />
-<hr>
+## 📊 **This Week I Spent My Time On:** <br /><br />
 
 <!--START_SECTION:waka-->
 ```text
