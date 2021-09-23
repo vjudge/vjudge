@@ -42,13 +42,25 @@ Here are some ideas to get you started:
 
 ## 🛠️ **Languages and Tools:**
 <!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
+<!-- https://img.shields.io/badge/{左半部分标签}-{右半部分标签}-{右半部分颜色} -->
+<!--
+语言类(Node，JavaScript，HTML5，CSS3，Shell，Go，TypeScript，Python)：#FF3633 (红色系)
+框架类(Express，Koa，Vue，React，Bootstrap，Django)#F05F00 (橙色系)
+技术类(Webpack，RabbitMQ)：#FFDC28 (黄色系)
+数据库类(MongoDB，Redis，MySQL，Elasticsearch，SQL)：#0088FF (蓝色系)
+运维工具类(Docker，Kubernetes，Istio，Jenkins)：#3DDC84 (绿色系)
+开发工具类(Git，GitLab，Postman，Markdown，Anaconda)：#78FF96 (青色系)
+软件类(Dash，Alfred)：#01D277 (绿色系)
+IDE类(Atom，Visual Studio Code，IntelliJ IDEA，PyCharm)：#7764FA (紫色系)
+平台类(GitHub，Stack Overflow，ACM，LeetCode，Codeforces)：#141E24 (黑色系)
+-->
 - 🚀 I use daily:
-  ![Node](https://img.shields.io/badge/-Node.JS-black?style=for-the-badge&logo=Node.js)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
-  ![Express](https://img.shields.io/badge/-Express.JS-c7b198?style=for-the-badge&logo=Express.JS)
-  ![Koa](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=koa)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
-  ![Redis](https://img.shields.io/badge/redis-%23c83d2e.svg?style=for-the-badge&logo=redis&logoColor=white)
+  ![Node](https://img.shields.io/badge/-Node.JS-FF3633.svg?style=for-the-badge&logo=Node.js)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-FF3633.svg?style=for-the-badge&logo=javascript)
+  ![Express](https://img.shields.io/badge/-Express.JS-F05F00.svg?style=for-the-badge&logo=Express.JS)
+  ![Koa](https://img.shields.io/badge/-Koa-F05F00?style=for-the-badge&logo=koa)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-02A8EF?style=for-the-badge&logo=mongodb)
+  ![Redis](https://img.shields.io/badge/-Redis-02A8EF?style=for-the-badge&logo=redis&logoColor=white)
   ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
   ![Atom](https://img.shields.io/badge/-Atom-blasck?style=for-the-badge&logo=atom)
@@ -57,20 +69,20 @@ Here are some ideas to get you started:
 - 💻 I work using:
   ![Vue](https://img.shields.io/badge/Vue%20-%232b3847.svg?style=for-the-badge&logo=vue.js)
   ![React](https://img.shields.io/badge/-React-3b2e5a?style=for-the-badge&logo=react)
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+  ![HTML5](https://img.shields.io/badge/-HTML5-FF3633.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/-CSS3-FF3633.svg?style=for-the-badge&logo=css3)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
   ![Webpack](https://img.shields.io/badge/Webpack%20-%232b3847.svg?style=for-the-badge&logo=webpack)
-  ![Shell](https://img.shields.io/badge/-Shell-blasck?style=for-the-badge&logo=Shell)
+  ![Shell](https://img.shields.io/badge/-Shell-FF3633.svg?style=for-the-badge&logo=Shell)
   ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=gitlab)
   ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
   ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-007ACC?style=for-the-badge&logo=intellijidea)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
   ![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 - ⚙️ I also use and work:
-  ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-%2395e0d1.svg?style=for-the-badge&logo=elastic&logoColor=white)
-  ![SQL](https://img.shields.io/badge/SQL%20-%23025E8C.svg?style=for-the-badge&logo=sql&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-02A8EF.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-02A8EF.svg?style=for-the-badge&logo=elastic&logoColor=white)
+  ![SQL](https://img.shields.io/badge/SQL%20-02A8EF.svg?style=for-the-badge&logo=sql&logoColor=white)
   ![RabbitMQ](https://img.shields.io/badge/RabbitMQ%20-%23025E8C.svg?style=for-the-badge&logo=rabbitmq&logoColor=white)
   ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
   ![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=for-the-badge&logo=Jenkins)
@@ -79,12 +91,15 @@ Here are some ideas to get you started:
   ![LeetCode](https://img.shields.io/badge/-LeetCode-3f4441?style=for-the-badge&logo=leetCode)
   ![Codeforces](https://img.shields.io/badge/-Codeforces-3f4441?style=for-the-badge&logo=codeforces)
 - 🌱 Learning all about:
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-3f4441?style=for-the-badge&logo=typescript)
-  ![Java](https://img.shields.io/badge/-java-3f4441?style=for-the-badge&logo=java)
-  ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python)
+  ![Go](https://img.shields.io/badge/-Go-FF3633.svg?style=for-the-badge&logo=go)
+  ![Docker](https://img.shields.io/badge/-Docker-092E20?style=for-the-badge&logo=docker)
+  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-092E20?style=for-the-badge&logo=kubernetes)
+  ![Istio](https://img.shields.io/badge/-Istio-092E20?style=for-the-badge&logo=istio)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-FF3633.svg?style=for-the-badge&logo=typescript)
+  <!-- ![Java](https://img.shields.io/badge/-java-3f4441?style=for-the-badge&logo=java) -->
+  ![Python](https://img.shields.io/badge/Python-FF3633.svg?style=for-the-badge&logo=python)
   ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=Django)
   ![Anaconda](https://img.shields.io/badge/-Anaconda-092E20?style=for-the-badge&logo=anaconda)
-  ![Go](https://img.shields.io/badge/-Go-092E20?style=for-the-badge&logo=go)
   ![PyCharm](https://img.shields.io/badge/-PyCharm-092E20?style=for-the-badge&logo=pycharm)
 
 - 📫 How to reach me:
@@ -121,10 +136,10 @@ Here are some ideas to get you started:
 ```text
 Week: 16 September, 2021 - 22 September, 2021
 
-JavaScript   15 hrs 52 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀   71.63 % 
-Markdown     4 hrs 18 mins   ⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   19.42 % 
-SQL          1 hr 18 mins    ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.89 % 
-Go           17 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.34 % 
-JSON         13 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.99 % 
+JavaScript   15 hrs 52 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀   71.63 %
+Markdown     4 hrs 18 mins   ⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   19.42 %
+SQL          1 hr 18 mins    ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.89 %
+Go           17 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.34 %
+JSON         13 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.99 %
 ```
 <!--END_SECTION:waka-->
