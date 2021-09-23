@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 ## 🛠️ **Languages and Tools:**
 <!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
-<!-- https://img.shields.io/badge/{左半部分标签}-{右半部分标签}-{右半部分颜色} -->
+<!-- https://img.shields.io/badge/{左半部分标签}-{右半部分标签}-{右半部分颜色}.svg?logoWidth=100&logo=【base64编码后的图片数据】 -->
 <!--
 语言类(Node，JavaScript，HTML5，CSS3，Shell，Markdown，Go，TypeScript，Python): #FF3633 (红色系)
 框架类(Express，Koa，Vue，React，Webpack，Bootstrap，Django): #F05F00 (橙色系)
@@ -57,8 +57,8 @@ IDE类(Atom，Visual Studio Code，IntelliJ IDEA，PyCharm)：#7764FA (紫色系
 - 🚀 I use daily:
   ![Node](https://img.shields.io/badge/-Node.JS-FF3633.svg?logo=Node.js&style=for-the-badge)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-FF3633.svg?logo=javascript&style=for-the-badge)
-  ![Express](https://img.shields.io/badge/-Express.JS-F05F00.svg?logo=Express.js&style=for-the-badge)
-  ![Koa](https://img.shields.io/badge/-Koa-F05F00?logo=Koa.js&style=for-the-badge)
+  ![Express](https://img.shields.io/badge/-Express.JS-F05F00.svg?logo=Express&style=for-the-badge)
+  ![Koa](https://img.shields.io/badge/-Koa-F05F00?logo=Koajs&style=for-the-badge)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-0088FF.svg?logo=mongodb&style=for-the-badge)
   ![Redis](https://img.shields.io/badge/-Redis-0088FF.svg?logo=redis&style=for-the-badge&logoColor=white)
   ![Git](https://img.shields.io/badge/-Git-78FF96.svg?logo=git&style=for-the-badge)
