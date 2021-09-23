@@ -57,8 +57,8 @@ IDE类(Atom，Visual Studio Code，IntelliJ IDEA，PyCharm)：#7764FA (紫色系
 - 🚀 I use daily:
   ![Node](https://img.shields.io/badge/-Node.JS-FF3633.svg?logo=Node.js&style=for-the-badge)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-FF3633.svg?logo=javascript&style=for-the-badge)
-  ![Express](https://img.shields.io/badge/-Express.JS-F05F00.svg?logo=express&style=for-the-badge)
-  ![Koa](https://img.shields.io/badge/-Koa-F05F00?logo=koajs&style=for-the-badge)
+  ![Express](https://img.shields.io/badge/-Express.JS-F05F00.svg?logo=Express.js&style=for-the-badge)
+  ![Koa](https://img.shields.io/badge/-Koa-F05F00?logo=Koa.js&style=for-the-badge)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-0088FF.svg?logo=mongodb&style=for-the-badge)
   ![Redis](https://img.shields.io/badge/-Redis-0088FF.svg?logo=redis&style=for-the-badge&logoColor=white)
   ![Git](https://img.shields.io/badge/-Git-78FF96.svg?logo=git&style=for-the-badge)
