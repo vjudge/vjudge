@@ -44,28 +44,32 @@ Here are some ideas to get you started:
 <!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
 <!-- https://img.shields.io/badge/{左半部分标签}-{右半部分标签}-{右半部分颜色}.svg?logoWidth=100&logo=【base64编码后的图片数据】 -->
 <!--
+&logoColor=white
 语言类(Node，JavaScript，HTML5，CSS3，Shell，Markdown，Go，TypeScript，Python): #FF3633 (红色系)
-框架类(Express，Koa，Vue，React，Webpack，Bootstrap，Django): #F05F00 (橙色系)
+框架类(Express，Koa，NestJS, Vue，React，Webpack，Bootstrap，Django): #F05F00 (橙色系)
 技术类(RabbitMQ): #FFDC28 (黄色系)
-数据库类(MongoDB，Redis，MySQL，Elasticsearch，SQL)：#0088FF (蓝色系)
+数据库类(MongoDB，Redis，MySQL，Elasticsearch，Consul)：#0088FF (蓝色系)
 运维工具类(Docker，Kubernetes，Istio，Jenkins)：#3DDC84 (绿色系)
 开发工具类(Git，GitLab，Postman，Anaconda)：#78FF96 (青色系)
 软件类(Dash，Alfred)：#01D277 (绿色系)
-IDE类(Atom，Visual Studio Code，IntelliJ IDEA，PyCharm)：#7764FA (紫色系)
+IDE类(Atom，Visual Studio Code，IntelliJ IDEA，WebStorm, PyCharm)：#7764FA (紫色系)
 平台类(GitHub，Stack Overflow，ACM，LeetCode，Codeforces)：#141E24 (黑色系)
 -->
 - 🚀 I use daily:
-  ![Node](https://img.shields.io/badge/-Node.JS-FF3633.svg?logo=Node.js&style=for-the-badge)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-FF3633.svg?logo=javascript&style=for-the-badge)
+  ![Node](https://img.shields.io/badge/-Node.JS-FF3633.svg?logo=Node.js&style=for-the-badge)
   ![Express](https://img.shields.io/badge/-Express.JS-F05F00.svg?logo=Express&style=for-the-badge)
-  ![Koa](https://img.shields.io/badge/-Koa-F05F00?logo=Koajs&style=for-the-badge)
+  ![Koa](https://img.shields.io/badge/-Koa-F05F00?logo=koa&style=for-the-badge)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-FF3633.svg?logo=typescript&style=for-the-badge)
+  ![NestJS](https://img.shields.io/badge/-NestJS-F05F00.svg?logo=nestjs&style=for-the-badge)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-0088FF.svg?logo=mongodb&style=for-the-badge)
   ![Redis](https://img.shields.io/badge/-Redis-0088FF.svg?logo=redis&style=for-the-badge&logoColor=white)
   ![Git](https://img.shields.io/badge/-Git-78FF96.svg?logo=git&style=for-the-badge)
   ![GitHub](https://img.shields.io/badge/-GitHub-141E24.svg?logo=github&style=for-the-badge)
+  ![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-141E24.svg?logo=stack-overflow&style=for-the-badge&logoColor=white)
+  ![WebStorm](https://img.shields.io/badge/-WebStorm-7764FA.svg?logo=webstorm&style=for-the-badge)
   ![Atom](https://img.shields.io/badge/-Atom-7764FA.svg?logo=atom&style=for-the-badge)
-  ![Dash](https://img.shields.io/badge/-Dash-01D277.svg?logo=dash&style=for-the-badge)
-  ![Alfred](https://img.shields.io/badge/-Alfred-01D277.svg?logo=alfred&style=for-the-badge)
+
 - 💻 I work using:
   ![Vue](https://img.shields.io/badge/-Vue-F05F00.svg?logo=vue.js&style=for-the-badge)
   ![React](https://img.shields.io/badge/-React-F05F00.svg?logo=react&style=for-the-badge)
@@ -78,24 +82,28 @@ IDE类(Atom，Visual Studio Code，IntelliJ IDEA，PyCharm)：#7764FA (紫色系
   ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-7764FA.svg?logo=visual-studio-code&style=for-the-badge)
   ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-7764FA.svg?logo=intellijidea&style=for-the-badge)
   ![Postman](https://img.shields.io/badge/-Postman-78FF96.svg?logo=postman&style=for-the-badge&logoColor=white)
-  ![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-141E24.svg?logo=stack-overflow&style=for-the-badge&logoColor=white)
+  
 - ⚙️ I also use and work:
-  ![MySQL](https://img.shields.io/badge/-MySQL-0088FF.svg?logo=mysql&style=for-the-badge&logoColor=white)
-  ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-0088FF.svg?logo=elastic&style=for-the-badge&logoColor=white)
-  ![SQL](https://img.shields.io/badge/-SQL-0088FF.svg?logo=sql&style=for-the-badge&logoColor=white)
-  ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FFDC28.svg?logo=rabbitmq&style=for-the-badge&logoColor=white)
-  ![Markdown](https://img.shields.io/badge/-Markdown-FF3633.svg?logo=markdown&style=for-the-badge&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/-MySQL-0088FF.svg?logo=mysql&style=for-the-badge)
+  ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-0088FF.svg?logo=elastic&style=for-the-badge)
+  ![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-FFDC28.svg?logo=apachekafka&style=for-the-badge)
+  ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FFDC28.svg?logo=rabbitmq&style=for-the-badge)
+  ![Consul](https://img.shields.io/badge/-Consul-0088FF.svg?logo=consul&style=for-the-badge)
+  ![Docker](https://img.shields.io/badge/-Docker-3DDC84.svg?logo=docker&style=for-the-badge)
+  ![Markdown](https://img.shields.io/badge/-Markdown-FF3633.svg?logo=markdown&style=for-the-badge)
   ![Jenkins](https://img.shields.io/badge/-Jenkins-3DDC84.svg?logo=jenkins&style=for-the-badge)
+  ![Dash](https://img.shields.io/badge/-Dash-01D277.svg?logo=dash&style=for-the-badge)
+  ![Alfred](https://img.shields.io/badge/-Alfred-01D277.svg?logo=alfred&style=for-the-badge)
+
 - ⚡ I have participated in ACM in the past, so I like programming exercises:
   ![ACM](https://img.shields.io/badge/-ACM-141E24.svg?logo=acm&style=for-the-badge)
   ![LeetCode](https://img.shields.io/badge/-LeetCode-141E24.svg?logo=leetCode&style=for-the-badge)
   ![Codeforces](https://img.shields.io/badge/-Codeforces-141E24.svg?logo=codeforces&style=for-the-badge)
+
 - 🌱 Learning all about:
   ![Go](https://img.shields.io/badge/-Go-FF3633.svg?logo=go&style=for-the-badge)
-  ![Docker](https://img.shields.io/badge/-Docker-3DDC84.svg?logo=docker&style=for-the-badge)
   ![Kubernetes](https://img.shields.io/badge/-Kubernetes-3DDC84.svg?logo=kubernetes&style=for-the-badge)
   ![Istio](https://img.shields.io/badge/-Istio-3DDC84.svg?logo=istio&style=for-the-badge)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-FF3633.svg?logo=typescript&style=for-the-badge)
   <!-- ![Java](https://img.shields.io/badge/-java-3f4441?style=for-the-badge&logo=java) -->
   ![Python](https://img.shields.io/badge/-Python-FF3633.svg?logo=python&style=for-the-badge)
   ![Django](https://img.shields.io/badge/-Django-F05F00.svg?logo=django&style=for-the-badge)
