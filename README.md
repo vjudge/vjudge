@@ -143,7 +143,7 @@ IDE类(Atom，Visual Studio Code，IntelliJ IDEA，WebStorm, PyCharm): #9B59B6 #
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 January, 2022 - 23 January, 2022
+Week: 18 January, 2022 - 24 January, 2022
 
 TypeScript   19 hrs 36 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   58.74 % 
 Markdown     9 hrs 9 mins    ⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   27.45 % 
